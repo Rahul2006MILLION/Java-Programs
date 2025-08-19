@@ -1,2 +1,24 @@
 # Java-Programs
 Collection of Java programs created while learning the basics of Java.
+# ☕ Java Programs  
+1)
+🚀 My first Java program: **Hello World** 🌍  
+
+📂 This repo will have multiple `.java` files as I learn Java this semester.  
+
+## ▶️ Run the program
+1. `javac HelloWorld.java`  
+2. `java HelloWorld!!`  
+
+
+2)
+# 🧮 Java Calculator Program  
+
+This program takes **two numbers** as input and performs:  
+➕ Addition  
+➖ Subtraction  
+✖️ Multiplication  
+➗ Division  
+
+
+✨ More programs coming soon...  
