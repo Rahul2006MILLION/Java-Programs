@@ -20,5 +20,13 @@ This program takes **two numbers** as input and performs:
 ✖️ Multiplication  
 ➗ Division  
 
+3)
+# 🔢 Positive or Negative Number Checker  
+
+This Java program checks whether a given number is:  
+✅ Positive  
+❌ Negative  
+
+   javac learn.java
 
 ✨ More programs coming soon...  
