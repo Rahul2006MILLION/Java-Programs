@@ -29,4 +29,12 @@ This Java program checks whether a given number is:
 
    javac learn.java
 
+4)
+# 📦➡️📊 Java Array  
+
+📝 This program:  
+🔹 Creates an array of 5 numbers  
+🔹 Prints the last element  
+## 🎯 Output  
+
 ✨ More programs coming soon...  
