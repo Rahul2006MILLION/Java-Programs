@@ -37,5 +37,8 @@ This Java program checks whether a given number is:
 🔹 Prints the last element  
 
 5)
+# 🔢 Even or Odd Checker  
+A simple Java program 
+That check's if a number is **Even ✅** or **Odd ❌**.  
 
 ✨ More programs coming soon...  
