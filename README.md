@@ -41,4 +41,8 @@ This Java program checks whether a given number is:
 A simple Java program 
 That check's if a number is **Even ✅** or **Odd ❌**.  
 
+6) 
+# 🟦 Square Number  
+🔢 A simple Java program to calculate the square of a number ✨  
+
 ✨ More programs coming soon...  
