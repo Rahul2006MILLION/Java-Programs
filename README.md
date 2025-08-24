@@ -52,4 +52,12 @@ That check's if a number is **Even ✅** or **Odd ❌**.
 8)
 # 📊 Average of Three Marks  
 📝 A simple Java program to calculate the **average of 3 marks** 🔢✨.  
+
+9)
+# ⚪ Area of Circle  
+
+📝 A simple Java program to calculate the **area of a circle** using its radius 🔢✨.  
+The program takes the radius as input from the user and applies the formula:  
+📐 **Area = π × r²**  
+
 ✨ More programs coming soon...  
