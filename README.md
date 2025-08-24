@@ -45,4 +45,8 @@ That check's if a number is **Even ✅** or **Odd ❌**.
 # 🟦 Square Number  
 🔢 A simple Java program to calculate the square of a number ✨  
 
+7)
+# 🧑 Details Program  
+📝 A simple Java program that asks for your **name** and **age** and then prints them ✨.  
+
 ✨ More programs coming soon...  
