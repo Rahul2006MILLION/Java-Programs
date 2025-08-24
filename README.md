@@ -60,4 +60,19 @@ That check's if a number is **Even ✅** or **Odd ❌**.
 The program takes the radius as input from the user and applies the formula:  
 📐 **Area = π × r²**  
 
+10)
+# 🎂 Age Calculator  
+
+📝 A simple Java program that calculates your **age** based on your birth year 🔢✨.  
+(Current year used: **2025** 📅)  
+
+---
+
+## ▶️ How to Run  
+1. Save the file as `agecalculator.java`  
+2. Compile the program:  
+   ```bash
+   javac agecalculator.java
+
+
 ✨ More programs coming soon...  
