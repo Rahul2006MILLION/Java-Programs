@@ -35,6 +35,7 @@ This Java program checks whether a given number is:
 📝 This program:  
 🔹 Creates an array of 5 numbers  
 🔹 Prints the last element  
-## 🎯 Output  
+
+5)
 
 ✨ More programs coming soon...  
