@@ -49,4 +49,7 @@ That check's if a number is **Even ✅** or **Odd ❌**.
 # 🧑 Details Program  
 📝 A simple Java program that asks for your **name** and **age** and then prints them ✨.  
 
+8)
+# 📊 Average of Three Marks  
+📝 A simple Java program to calculate the **average of 3 marks** 🔢✨.  
 ✨ More programs coming soon...  
