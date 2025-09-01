@@ -74,5 +74,15 @@ The program takes the radius as input from the user and applies the formula:
    ```bash
    javac agecalculator.java
 
+11)
+# 📝 String Case Converter in Java
 
+This is a simple Java program that demonstrates **string manipulation** by converting a given string to **uppercase** and **lowercase**.
+
+---
+
+## 📌 Features
+- Prints the original string.
+- Converts the string to **uppercase**.
+- Converts the string to **lowercase**.
 ✨ More programs coming soon...  
