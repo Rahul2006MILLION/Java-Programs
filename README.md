@@ -109,5 +109,30 @@ Start from the last index of the array.
 Loop backwards to the first element.
 Print each element on a new line.
 
+14)
+⚡ Array of Even Numbers ✨
+📝 Description
+
+This Java program prints all the even numbers from a given array.
+
+🔢 Array Used
+int[] arr = {1,2,3,4,5,6,7,8,10};
+
+🔍 How It Works
+
+Loop through the array arr 🌀
+
+Check if the number is even (num % 2 == 0) ✅
+
+Print all even numbers 💻
+
+📤 Output
+Even Numbers From the Array: 
+2
+4
+6
+8
+10
+
 
 ✨ More programs coming soon...  
