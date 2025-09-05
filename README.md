@@ -98,5 +98,16 @@ Finally, prints the total count of numbers greater than 50.
 OUTPUT:
 Numbers Greater than 50: 3
 
+13)
+📊 This Java program prints the elements of an array in reverse order.
+
+Array Used
+int[] arr = {1,2,3,4,5,6,7,8,9};
+
+How It Works
+Start from the last index of the array.
+Loop backwards to the first element.
+Print each element on a new line.
+
 
 ✨ More programs coming soon...  
