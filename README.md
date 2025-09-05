@@ -134,5 +134,29 @@ Even Numbers From the Array:
 8
 10
 
+16)
+🔢 Array of Odd Numbers 🌙
+📝 Description
+
+This Java program finds and prints all the odd numbers from a given array.
+
+📦 Array Used
+int[] arr = {1,2,3,4,5,6,7,8,10};
+
+⚙️ How It Works
+
+Loop through the array 🔄
+
+Check if a number is odd (num % 2 != 0) 🎯
+
+Print all odd numbers 🖨️
+
+📤 Output
+Odd Numbers From the Array: 
+1
+3
+5
+7
+
 
 ✨ More programs coming soon...  
