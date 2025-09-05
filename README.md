@@ -85,4 +85,18 @@ This is a simple Java program that demonstrates **string manipulation** by conve
 - Prints the original string.
 - Converts the string to **uppercase**.
 - Converts the string to **lowercase**.
+
+12)
+📝 numg50 is a Java program that counts how many numbers in a given array are greater than 50 and prints the result to the console.
+
+Initializes a counter count to 0.
+Loops through each element of the array.
+Checks if the element is greater than 50.
+If true, increments the counter.
+Finally, prints the total count of numbers greater than 50.
+
+OUTPUT:
+Numbers Greater than 50: 3
+
+
 ✨ More programs coming soon...  
