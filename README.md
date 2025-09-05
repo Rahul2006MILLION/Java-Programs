@@ -157,6 +157,42 @@ Odd Numbers From the Array:
 3
 5
 7
+-----
+17)
+This Java program takes user input for an array of integers and finds the maximum (greatest) element in the array.
+
+🛠️ How It Works
+
+Ask the user how many elements the array will have.
+
+Take input for each element of the array.
+
+Use a variable check to keep track of the largest number.
+
+Compare each element of the array with check.
+
+After the loop ends, print the greatest number.
+
+📥 Example Input
+Enter the Number of element in the Array: 
+5
+Enter the Number of Elements in the Array: 
+12
+Enter the Number of Elements in the Array: 
+45
+Enter the Number of Elements in the Array: 
+7
+Enter the Number of Elements in the Array: 
+89
+Enter the Number of Elements in the Array: 
+23
+
+📤 Example Output
+Greatest Number in the Array is: 89
+
+18)
+
+
 
 
 ✨ More programs coming soon...  
