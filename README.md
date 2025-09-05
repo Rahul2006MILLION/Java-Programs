@@ -190,9 +190,41 @@ Enter the Number of Elements in the Array:
 📤 Example Output
 Greatest Number in the Array is: 89
 
-18)
+18)⬇️ minimumarrayelem
+📌 Description
 
+This Java program finds the minimum (smallest) element in a user-input array.
 
+⚙️ How It Works
+
+The user enters the size of the array.
+
+The program takes input for each element.
+
+A variable check is used to track the smallest value.
+
+The program loops through the array and updates check whenever a smaller element is found.
+
+Finally, it prints the minimum element.
+
+📥 Example Input
+Enter the Number of element in the Array: 
+5
+Enter the Number of Elements in the Array: 
+12
+Enter the Number of Elements in the Array: 
+45
+Enter the Number of Elements in the Array: 
+7
+Enter the Number of Elements in the Array: 
+89
+Enter the Number of Elements in the Array: 
+23
+
+📤 Example Output
+Smallest Number in the Array is: 7
+
+19)
 
 
 ✨ More programs coming soon...  
