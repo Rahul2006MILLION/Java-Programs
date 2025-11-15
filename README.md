@@ -224,7 +224,38 @@ Enter the Number of Elements in the Array:
 📤 Example Output
 Smallest Number in the Array is: 7
 
-19)
+19) Type Casting
+File: TypeCasting.java
+Demonstrates converting a double value to int using explicit type casting.
+
+
+20) Swap Two Numbers (Without Third Variable)
+File: SwapNumbers.java
+Uses arithmetic operations to swap two numbers without using a temporary variable.
+
+
+21) Largest of Three Numbers (Static values)
+File: Largest.java
+Checks and prints the largest of three predefined numbers using if–else.
+
+
+22) Largest of Three Numbers (User Input)
+File: LargestInput.java
+Takes three numbers from the user and prints the largest.
+
+23) Multiplication Table
+File: MultiplicationTable.java
+Prints the multiplication table of a number (e.g., 5) using a loop.
+
+
+24) Student Class (Static Data)
+File: StudentDemo.java
+Shows how classes and objects work in Java, including method calling and data handling.
+
+
+25) Student Class (User Input)
+File: StudentDemoInput.java
+A modified version that takes name and roll number from the user.
 
 
 ✨ More programs coming soon...  
