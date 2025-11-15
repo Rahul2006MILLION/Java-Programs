@@ -257,5 +257,69 @@ Shows how classes and objects work in Java, including method calling and data ha
 File: StudentDemoInput.java
 A modified version that takes name and roll number from the user.
 
+Age.java
+A simple program that calculates age using the birth year.
+ArithmeticOperation.java
+Performs addition, subtraction, multiplication, division, and modulus on two integers.
+ArrayInputSumAvg.java
+Takes array input from the user and prints the sum and average.
+ArraySearch.java
+Searches a specific value inside an array and prints whether it is found or not.
+BitwiseOperation.java
+Demonstrates bitwise AND, OR, and XOR operations using two integers.
+ConditionalOperation.java
+Uses the ternary operator to check whether a number is positive or negative.
+Even.java
+Checks whether a number is even or odd.
+GradeExample.java
+Takes marks as input and displays grade based on conditions.
+Greater.java
+Compares two numbers and prints which one is greater.
+Greetings.java
+Displays a simple welcome message.
+InceDecreOperation.java
+Demonstrates increment and decrement operations.
+Inheritance Programs
+InhSingleParent.java
+Shows single inheritance (one parent, one child).
+InhMultiLevelA.java
+Shows multilevel inheritance (grandparent → parent → child).
+InhHierarchicalParent.java
+Shows hierarchical inheritance (one parent, multiple children).
+InhHybridA.java
+Shows hybrid inheritance using classes and interfaces.
+InhMultipleA.java
+Shows multiple inheritance using interfaces.
+InhrDoctorExample.java
+Inheritance example with Doctor as the parent class.
+InhrEmployeeExample.java
+Inheritance example with Employee as the parent class.
+InhrShapeExample.java
+Inheritance example with Shape as the parent class.
+InhrTransportExample.java
+Inheritance example with Transport as the parent class.
+Loop and Control Flow Programs
+M2Break.java
+Demonstrates break statement inside a loop.
+M2Continue.java
+Demonstrates continue statement inside a loop.
+M2DoWhileLoop.java
+Shows how the do-while loop works.
+M2ForLoop.java
+Prints numbers using a standard for loop.
+M2ForEach.java
+Uses a for-each loop to print array elements.
+M2IfElse.java
+Simple if-else example to check sign of a number.
+M2IfNested.java
+Shows nested if statement usage.
+M2SwitchCase.java
+Demonstrates switch-case usage with a number.
+Other Basic Programs
+Marks.java
+Reads and displays marks entered by the user.
+MethodOverridingExample.java
+Shows method overriding using parent and child classes.
+
 
 ✨ More programs coming soon...  
