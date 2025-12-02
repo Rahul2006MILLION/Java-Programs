@@ -320,6 +320,62 @@ Marks.java
 Reads and displays marks entered by the user.
 MethodOverridingExample.java
 Shows method overriding using parent and child classes.
-
+2.1 Bitwise Operators
+Performs AND, OR, XOR and prints binary results.
+2.2 Relational Operators
+Compares two numbers and prints which is greater or if they are equal.
+2.3 Logical Operators (Vote Eligibility)
+Checks if a person is eligible to vote using logical AND.
+2.4 Assignment Operators (+=, -=, *=)
+Demonstrates the use of assignment operators.
+2.5 Ternary Operator (Even/Odd)
+Determines even/odd using a ternary operator.
+2.6 Selection Statements
+Checks if a number is positive, negative, or zero.
+2.7 Jump Statements
+Prints numbers 1–10 but skips 5 using the continue statement.
+3.1 Cellphone Class
+Methods: ringing, vibrating, calling.
+3.2 Book Class (Constructors)
+Includes:
+Default constructor
+Constructor with title + author
+Constructor with title + author + price
+3.3 Cylinder & Rectangle (Constructor Overloading)
+Cylinder: getters/setters, surface area, volume
+Rectangle: overloaded constructors
+4.4 Doctor Consultation Fees (Method Overriding)
+Dentist, Cardiologist, Surgeon → override consultationFee().
+4.5 Payment System (Polymorphism)
+CreditCard, UPI, NetBanking → overridden pay() method.
+4.6 Logistics Delivery (Dynamic Dispatch)
+Truck, Ship, Airplane → deliver() method.
+4.7 Banking System Rules
+Uses final class & final methods.
+4.8 Overriding Methods
+Includes:
+Book → toString()
+Student → equals(), hashCode()
+Movie → toString()
+Player → hashCode()
+4.9 Bank Interface
+SBI & HDFC implementing rateOfInterest().
+4.10 Vehicle Package
+Package: vehicles/
+Includes:
+Vehicle interface
+Bike class
+Car class
+TestVehicles.java
+5.1 ArithmeticException (Modulus)
+Handles divide-by-zero during modulus operation.
+5.2 NegativeArraySizeException
+Handles creation of array with invalid size.
+5.3 StringIndexOutOfBounds & NumberFormatException
+Attempts to convert first 3 chars of a string to an integer.
+5.4 FileNotFoundException & IOException
+Reads a file safely with proper exception handling.
+5.5 Custom Exception — InvalidEmailException
+Throws custom exception if email does not contain '@'.
 
 ✨ More programs coming soon...  
